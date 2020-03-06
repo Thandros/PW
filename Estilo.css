@@ -1,9 +1,11 @@
 
-h1 {   
-
-   color: red;    
-
+h1 {
+	border-bottom: 3px solid #aaa;
+	background-color: #3b3b3b;
+	color: #ddd;
+	padding: 5px;	
 }
+
 h3 {
   
    color: blue;
@@ -18,3 +20,4 @@ h3 {
 	
 	margin-top: 1em;
 }
+
