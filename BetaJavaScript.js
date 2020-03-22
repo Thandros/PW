@@ -1,5 +1,5 @@
 
  
     function Evento(){
-        alert('HaHAHAHAHAHA')
+        alert('Enganei o Tininim na casca do bobo, BOBO !')
     }
